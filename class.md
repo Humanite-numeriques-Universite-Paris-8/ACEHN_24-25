@@ -1,3 +1,6 @@
+Here is a simple flow chart:
+
+```mermaid
 classDiagram
     Animal <|-- Duck
     Animal <|-- Fish
@@ -19,3 +22,4 @@ classDiagram
       +bool is_wild
       +run()
     }
+```
